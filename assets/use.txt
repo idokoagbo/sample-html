@@ -1,0 +1,22 @@
+--------+ OWA True login Verified   +--------
+Email : hanani@jcsnews.co.il
+Password : Mila2306
+Link : https://outlook.office365.com/owa/auth/logon.aspx
+-----------------------------------
+User Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+Client IP : 129.205.113.231
+Country : Nigeria
+Date: Sat Oct 03, 2020 3:41 pm
+-----------------+ Created in Fix3r+------------------
+
+--------+ OWA True login Verified   +--------
+Email : hanani@jcsnews.co.il
+Password : Mila2306
+Link : https://outlook.office365.com/owa/auth/logon.aspx
+-----------------------------------
+User Agent : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36
+Client IP : 129.205.113.231
+Country : Nigeria
+Date: Sat Oct 03, 2020 4:25 pm
+-----------------+ Created in Fix3r+------------------
+
